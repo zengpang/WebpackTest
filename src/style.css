@@ -1,0 +1,6 @@
+div{
+    color: red;
+    background: url('./test.jpg') 0 0 no-repeat;
+    background-size: contain;
+    padding: 20px;
+}
